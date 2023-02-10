@@ -45,7 +45,7 @@
 [Sanjeev Kumar](I_SanjeevKumar.pdf)  
 [Shruti Gupta](I_ShrutiGupta.pdf)  
 [Shubham Gade](I_ShubhamGade.pdf)  
-[Srishti_Sunil Gupta need to be improved](I_Srishti_SunilGupta.pdf)  
+[Srishti_Sunil Gupta](I_Srishti_SunilGupta.pdf)  
 [Sudama Prasad Gupta](I_SudamaPrasadGupta.pdf)  
 [Suraj Sinha](I_SurajSinha.pdf)  
 [Swati Patel](I_SwatiPatel.pdf)  
