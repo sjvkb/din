@@ -49,7 +49,7 @@
 [Satyendra Prasad Gupta](I_SatyendraPrasadGupta.pdf)  
 [Shruti Gupta](I_ShrutiGupta.pdf)  
 [Shubham Gade](I_ShubhamGade.pdf)  
-[Srishti_Sunil Gupta](I_Srishti_SunilGupta.pdf)  
+[Srishti and Sunil Gupta](I_Srishti_SunilGupta.pdf)  
 [Sudama Prasad Gupta](I_SudamaPrasadGupta.pdf)  
 [Suraj Sinha](I_SurajSinha.pdf)  
 [Swati Patel](I_SwatiPatel.pdf)  
