@@ -46,6 +46,7 @@
 [Ravi Sharma](I_RaviSharma.pdf)  
 [Sachin P V](I_SachinPV.pdf)  
 [Sahil Ghule](I_SahilGhule.pdf)  
+[Sanjay Gupta](I_SanjayGupta.pdf)  
 [Sanjeev Kumar](I_SanjeevKumar.pdf)  
 [Santosh Gupta](I_SantoshGupta.pdf)  
 [Satyendra Prasad Gupta](I_SatyendraPrasadGupta.pdf)  
