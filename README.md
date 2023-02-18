@@ -34,6 +34,7 @@
 [Nisha](I_Nisha.pdf)  
 [Nitish Kumar](I_NitishKumar.pdf)  
 [Palav](I_Palav.pdf)  
+[Piyush, Barun](I_Piyush.pdf)  
 [P K Sahoo](I_PKSahoo.pdf)  
 [Pramod Gupta](I_PramodGupta.pdf)  
 [Pramod Kumar](I_PramodKumar.pdf)  
