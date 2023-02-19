@@ -4,7 +4,7 @@
 [Aftab Alam](I_AftabAlam.pdf)  
 [Ajeet Kumar](I_AjeetKumar.pdf)  
 [Alka](I_Alka.pdf)  
-[Anaya](I_Anaya.pdf)  
+[Ananya](I_Ananya.pdf)  
 [Anjali Gupta and Ravi Gupta](I_AnjaliGupta_RaviGupta.pdf)  
 [Anju Patel and Krishna Kumar](I_AnjuPatel_KrishnaKumar.pdf)  
 [Atul Subham](I_AtulSubham.pdf)  
